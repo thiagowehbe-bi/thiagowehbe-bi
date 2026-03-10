@@ -94,7 +94,7 @@ Experienced with the full data stack — from ingestion and transformation to vi
         </td>
         <td width="40%" align="center">
             <a href="https://github.com/thiagowehbe-bi/Dunder_Mifflin_Ecommerce" target="_blank">
-                <img width="100%" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="TechSphere E-Commerce" />
+                <img width="100%" src="https://media.giphy.com/media/dXFKDUolyLLi8gq6Cl/giphy.gif" alt="Dunder Mifflin" />
             </a>
         </td>
     </tr>
