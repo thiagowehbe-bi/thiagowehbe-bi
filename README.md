@@ -205,7 +205,7 @@ Experienced with the full data stack — from ingestion and transformation to vi
         <img width="90px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/" target="_blank">
+    <a href="https://www.linkedin.com/in/thiagowehbe/" target="_blank">
         <img width="90px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;
