@@ -94,7 +94,7 @@ Experienced with the full data stack — from ingestion and transformation to vi
         </td>
         <td width="40%" align="center">
             <a href="https://github.com/thiagowehbe-bi/TechSphere_Ecommerce" target="_blank">
-                <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagowehbe-bi&repo=TechSphere_Ecommerce&theme=tokyonight&hide_border=true" alt="TechSphere" />
+                <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=thiagowehbe-bi&repo=TechSphere_Ecommerce&theme=tokyonight&hide_border=true" alt="TechSphere" />
             </a>
         </td>
     </tr>
@@ -104,7 +104,7 @@ Experienced with the full data stack — from ingestion and transformation to vi
     <tr>
         <td width="40%" align="center">
             <a href="https://github.com/thiagowehbe-bi/Sales_Analysis_BigQuery" target="_blank">
-                <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagowehbe-bi&repo=Sales_Analysis_BigQuery&theme=tokyonight&hide_border=true" alt="Sales Analysis BigQuery" />
+                <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=thiagowehbe-bi&repo=Sales_Analysis_BigQuery&theme=tokyonight&hide_border=true" alt="Sales Analysis BigQuery" />
             </a>
         </td>
         <td width="60%">
@@ -145,7 +145,7 @@ Experienced with the full data stack — from ingestion and transformation to vi
         </td>
         <td width="40%" align="center">
             <a href="https://github.com/thiagowehbe-bi/SQL_Showcase" target="_blank">
-                <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagowehbe-bi&repo=SQL_Showcase&theme=tokyonight&hide_border=true" alt="SQL Showcase" />
+                <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=thiagowehbe-bi&repo=SQL_Showcase&theme=tokyonight&hide_border=true" alt="SQL Showcase" />
             </a>
         </td>
     </tr>
@@ -155,7 +155,7 @@ Experienced with the full data stack — from ingestion and transformation to vi
     <tr>
         <td width="40%" align="center">
             <a href="https://github.com/thiagowehbe-bi/Python-Training-Essentials" target="_blank">
-                <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagowehbe-bi&repo=Python-Training-Essentials&theme=tokyonight&hide_border=true" alt="Python Training" />
+                <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=thiagowehbe-bi&repo=Python-Training-Essentials&theme=tokyonight&hide_border=true" alt="Python Training" />
             </a>
         </td>
         <td width="60%">
@@ -183,12 +183,12 @@ Experienced with the full data stack — from ingestion and transformation to vi
 <h1 align="center">GitHub Stats</h1>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=thiagowehbe-bi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1a2e" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagowehbe-bi&theme=tokyonight&hide_border=true&background=1a1a2e" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thiagowehbe-bi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1a2e" alt="GitHub Stats" width="48%" />
+    <img src="https://streak-stats.demolab.com/?user=thiagowehbe-bi&theme=tokyonight&hide_border=true&background=1a1a2e" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowehbe-bi&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1a2e" alt="Top Languages" width="40%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thiagowehbe-bi&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1a2e" alt="Top Languages" width="40%" />
 </p>
 
 <!-- ───────────────────────── ADDITIONAL SKILLS ───────────────────────── -->
