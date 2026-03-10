@@ -183,12 +183,11 @@ Experienced with the full data stack — from ingestion and transformation to vi
 <h1 align="center">GitHub Stats</h1>
 
 <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thiagowehbe-bi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1a2e" alt="GitHub Stats" width="48%" />
-    <img src="https://streak-stats.demolab.com/?user=thiagowehbe-bi&theme=tokyonight&hide_border=true&background=1a1a2e" alt="GitHub Streak" width="48%" />
+    <img src="https://streak-stats.demolab.com/?user=thiagowehbe-bi&theme=tokyonight&hide_border=true&background=1a1a2e" alt="GitHub Streak" width="60%" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thiagowehbe-bi&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1a2e" alt="Top Languages" width="40%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=thiagowehbe-bi&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" width="80%" />
 </p>
 
 <!-- ───────────────────────── ADDITIONAL SKILLS ───────────────────────── -->
