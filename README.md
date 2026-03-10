@@ -1,19 +1,19 @@
 <!-- Banner -->
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=Thiago%20Wehbe&fontSize=60&fontColor=e0e0e0&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Tableau%20%7C%20dbt%20%7C%20Airflow&descSize=18&descAlignY=55&descColor=94a3b8" width="100%" alt="Banner" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=Thiago%20Wehbe&fontSize=60&fontColor=e0e0e0&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Tableau%20%7C%20dbt%20%7C%20Airflow&descSize=18&descAlignY=55&descColor=94a3b8" width="100%" alt="Banner" />
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />, I'm Thiago Wehbe</h1>
 
-<h2 align="center">Data Analyst</h2>
+<h2 align="center">Senior Data Analyst</h2>
 
 <h3 align="center">
-Data Analyst passionate about transforming raw data into meaningful, actionable insights.
+Senior Data Analyst passionate about transforming raw data into meaningful, actionable insights.
 Skilled in building analytical pipelines, crafting dashboards, and uncovering trends that drive business decisions.
 Experienced with the full data stack — from ingestion and transformation to visualization and reporting.
 </h3>
 
 <p align="center">
     <a href="https://github.com/thiagowehbe-bi">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&height=50&lines=%F0%9F%91%8B+I+am+Thiago+Wehbe;%F0%9F%93%8A+Data+Analyst;%F0%9F%9B%A0%EF%B8%8F+SQL+%7C+Python+%7C+Tableau+%7C+dbt+%7C+Airflow;%F0%9F%94%8D+Turning+Data+Into+Actionable+Insights;%F0%9F%92%AA+Analytical+%7C+Resourceful+%7C+Detail-Oriented;%F0%9F%93%88+Data+Analyst+%7C+Data+Engineer+%7C+BI+Developer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&height=50&lines=%F0%9F%91%8B+I+am+Thiago+Wehbe;%F0%9F%93%8A+Senior+Data+Analyst;%F0%9F%9B%A0%EF%B8%8F+SQL+%7C+Python+%7C+Tableau+%7C+dbt+%7C+Airflow;%F0%9F%94%8D+Turning+Data+Into+Actionable+Insights;%F0%9F%92%AA+Analytical+%7C+Resourceful+%7C+Detail-Oriented;%F0%9F%93%88+Senior+Data+Analyst+%7C+Data+Engineer+%7C+BI+Developer" alt="Typing SVG" />
     </a>
 </p>
 
@@ -79,13 +79,13 @@ Experienced with the full data stack — from ingestion and transformation to vi
             The company has a core dataset consisting of orders, order statuses, customers, products, and geographic information. We extracted numerous insights that had not yet been discovered by the company.</h4>
             <p>
                 <a href="https://github.com/thiagowehbe-bi/TechSphere_Ecommerce" target="_blank">
-                    <img width="80px" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+                    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
                 </a>
                 <a href="https://github.com/thiagowehbe-bi/TechSphere_Ecommerce" target="_blank">
-                    <img width="80px" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+                    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
                 </a>
                 <a href="https://github.com/thiagowehbe-bi/TechSphere_Ecommerce" target="_blank">
-                    <img width="80px" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+                    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
                 </a>
                 <a href="https://github.com/thiagowehbe-bi/TechSphere_Ecommerce" target="_blank">
                     <img src="https://img.shields.io/badge/Go_To_Project-%E2%86%92-3B82F6?style=for-the-badge" alt="Go To Project" />
@@ -114,10 +114,10 @@ Experienced with the full data stack — from ingestion and transformation to vi
             Utilized advanced SQL techniques including window functions, CTEs, and aggregations to uncover actionable insights from large datasets.</h4>
             <p>
                 <a href="https://github.com/thiagowehbe-bi/Sales_Analysis_BigQuery" target="_blank">
-                    <img width="80px" src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+                    <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
                 </a>
                 <a href="https://github.com/thiagowehbe-bi/Sales_Analysis_BigQuery" target="_blank">
-                    <img width="80px" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+                    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
                 </a>
                 <a href="https://github.com/thiagowehbe-bi/Sales_Analysis_BigQuery" target="_blank">
                     <img src="https://img.shields.io/badge/Go_To_Project-%E2%86%92-3B82F6?style=for-the-badge" alt="Go To Project" />
@@ -136,7 +136,7 @@ Experienced with the full data stack — from ingestion and transformation to vi
             Covers real-world scenarios from sales analytics, customer segmentation, inventory management, and financial reporting — showcasing proficiency in turning raw data into business intelligence.</h4>
             <p>
                 <a href="https://github.com/thiagowehbe-bi/SQL_Showcase" target="_blank">
-                    <img width="80px" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+                    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
                 </a>
                 <a href="https://github.com/thiagowehbe-bi/SQL_Showcase" target="_blank">
                     <img src="https://img.shields.io/badge/Go_To_Project-%E2%86%92-3B82F6?style=for-the-badge" alt="Go To Project" />
@@ -165,10 +165,10 @@ Experienced with the full data stack — from ingestion and transformation to vi
             A hands-on collection of notebooks and scripts designed to build a strong foundation in Python for data analysis and engineering workflows.</h4>
             <p>
                 <a href="https://github.com/thiagowehbe-bi/Python-Training-Essentials" target="_blank">
-                    <img width="80px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+                    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
                 </a>
                 <a href="https://github.com/thiagowehbe-bi/Python-Training-Essentials" target="_blank">
-                    <img width="80px" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+                    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
                 </a>
                 <a href="https://github.com/thiagowehbe-bi/Python-Training-Essentials" target="_blank">
                     <img src="https://img.shields.io/badge/Go_To_Project-%E2%86%92-3B82F6?style=for-the-badge" alt="Go To Project" />
