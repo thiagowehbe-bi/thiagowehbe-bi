@@ -183,11 +183,7 @@ Experienced with the full data stack — from ingestion and transformation to vi
 <h1 align="center">GitHub Stats</h1>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=thiagowehbe-bi&theme=tokyonight&hide_border=true&background=1a1a2e" alt="GitHub Streak" width="60%" />
-</p>
-
-<p align="center">
-    <img src="https://github-trophies.vercel.app/?username=thiagowehbe-bi&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" width="80%" />
+    <img src="https://streak-stats.demolab.com/?user=thiagowehbe-bi&theme=tokyonight&hide_border=true&background=1a1a2e" alt="GitHub Streak" width="55%" />
 </p>
 
 <!-- ───────────────────────── ADDITIONAL SKILLS ───────────────────────── -->
