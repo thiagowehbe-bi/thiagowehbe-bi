@@ -27,37 +27,37 @@ Experienced with the full data stack — from ingestion and transformation to vi
     <tr>
         <td width="16%" align="center" valign="top">
             <br>
-            <img src="https://cdn.simpleicons.org/python/3776AB" width="60" height="60" alt="Python" />
+            <img src="./icons/python.svg" width="60" height="60" alt="Python" />
             <br><br>
             <h3>Python</h3>
         </td>
         <td width="16%" align="center" valign="top">
             <br>
-            <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="60" height="60" alt="SQL" />
+            <img src="./icons/postgresql.svg" width="60" height="60" alt="SQL" />
             <br><br>
             <h3>SQL</h3>
         </td>
         <td width="16%" align="center" valign="top">
             <br>
-            <img src="https://cdn.simpleicons.org/tableau/E97627" width="60" height="60" alt="Tableau" />
+            <img src="./icons/tableau.svg" width="60" height="60" alt="Tableau" />
             <br><br>
             <h3>Tableau</h3>
         </td>
         <td width="16%" align="center" valign="top">
             <br>
-            <img src="https://cdn.simpleicons.org/dbt/FF694B" width="60" height="60" alt="dbt" />
+            <img src="./icons/dbt.svg" width="60" height="60" alt="dbt" />
             <br><br>
             <h3>dbt</h3>
         </td>
         <td width="16%" align="center" valign="top">
             <br>
-            <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="60" height="60" alt="Airflow" />
+            <img src="./icons/airflow.svg" width="60" height="60" alt="Airflow" />
             <br><br>
             <h3>Airflow</h3>
         </td>
         <td width="16%" align="center" valign="top">
             <br>
-            <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="60" height="60" alt="Excel" />
+            <img src="./icons/excel.svg" width="60" height="60" alt="Excel" />
             <br><br>
             <h3>Excel</h3>
         </td>
