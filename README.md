@@ -187,7 +187,7 @@ Experienced with the full data stack — from ingestion and transformation to vi
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=thiagowehbe-bi&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" width="80%" />
+    <img src="https://github-trophies.vercel.app/?username=thiagowehbe-bi&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" width="80%" />
 </p>
 
 <!-- ───────────────────────── ADDITIONAL SKILLS ───────────────────────── -->
