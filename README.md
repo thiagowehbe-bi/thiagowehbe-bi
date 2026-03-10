@@ -73,8 +73,8 @@ Experienced with the full data stack — from ingestion and transformation to vi
 <table bordercolor="#3B82F6">
     <tr>
         <td width="60%">
-            <h2>TechSphere E-Commerce Sales Analysis</h2>
-            <h4>Founded in 2018, TechSphere is an e-commerce company that sells popular electronic products and has since expanded to a global customer base. Like most e-commerce companies, TechSphere sells products through its online site as well as its mobile app. It uses a variety of marketing channels to reach customers, including email campaigns, SEO, and affiliate links. Over the past few years, its most popular products have been from Apple, Samsung, and ThinkPad.
+            <h2>Dunder Mifflin Paper Company, Inc. Sales Analysis</h2>
+            <h4>Founded in 2018, Dunder Mifflin Paper Company, Inc. is an e-commerce company that sells popular electronic products and has since expanded to a global customer base. Like most e-commerce companies, Dunder Mifflin sells products through its online site as well as its mobile app. It uses a variety of marketing channels to reach customers, including email campaigns, SEO, and affiliate links. Over the past few years, its most popular products have been from Apple, Samsung, and ThinkPad.
             <br><br>
             The company has a core dataset consisting of orders, order statuses, customers, products, and geographic information. We extracted numerous insights that had not yet been discovered by the company.</h4>
             <p>
