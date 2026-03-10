@@ -25,33 +25,39 @@ Experienced with the full data stack — from ingestion and transformation to vi
 
 <table align="center">
     <tr>
-        <td width="16%" align="center">
-            <img src="https://skillicons.dev/icons?i=py" width="65" alt="Python" />
+        <td width="16%" align="center" valign="top">
+            <br>
+            <img src="https://cdn.simpleicons.org/python/3776AB" width="60" height="60" alt="Python" />
             <br><br>
             <h3>Python</h3>
         </td>
-        <td width="16%" align="center">
-            <img src="https://skillicons.dev/icons?i=postgresql" width="65" alt="SQL" />
+        <td width="16%" align="center" valign="top">
+            <br>
+            <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="60" height="60" alt="SQL" />
             <br><br>
             <h3>SQL</h3>
         </td>
-        <td width="16%" align="center">
-            <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="65" alt="Tableau" />
+        <td width="16%" align="center" valign="top">
+            <br>
+            <img src="https://cdn.simpleicons.org/tableau/E97627" width="60" height="60" alt="Tableau" />
             <br><br>
             <h3>Tableau</h3>
         </td>
-        <td width="16%" align="center">
-            <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="65" alt="dbt" />
+        <td width="16%" align="center" valign="top">
+            <br>
+            <img src="https://cdn.simpleicons.org/dbt/FF694B" width="60" height="60" alt="dbt" />
             <br><br>
             <h3>dbt</h3>
         </td>
-        <td width="16%" align="center">
-            <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" height="65" alt="Airflow" />
+        <td width="16%" align="center" valign="top">
+            <br>
+            <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="60" height="60" alt="Airflow" />
             <br><br>
             <h3>Airflow</h3>
         </td>
-        <td width="16%" align="center">
-            <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="65" alt="Excel" />
+        <td width="16%" align="center" valign="top">
+            <br>
+            <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="60" height="60" alt="Excel" />
             <br><br>
             <h3>Excel</h3>
         </td>
