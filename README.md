@@ -94,7 +94,7 @@ Experienced with the full data stack — from ingestion and transformation to vi
         </td>
         <td width="40%" align="center">
             <a href="https://github.com/thiagowehbe-bi/TechSphere_Ecommerce" target="_blank">
-                <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=thiagowehbe-bi&repo=TechSphere_Ecommerce&theme=tokyonight&hide_border=true" alt="TechSphere" />
+                <img width="100%" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="TechSphere E-Commerce" />
             </a>
         </td>
     </tr>
@@ -104,7 +104,7 @@ Experienced with the full data stack — from ingestion and transformation to vi
     <tr>
         <td width="40%" align="center">
             <a href="https://github.com/thiagowehbe-bi/Sales_Analysis_BigQuery" target="_blank">
-                <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=thiagowehbe-bi&repo=Sales_Analysis_BigQuery&theme=tokyonight&hide_border=true" alt="Sales Analysis BigQuery" />
+                <img width="100%" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Sales Analysis BigQuery" />
             </a>
         </td>
         <td width="60%">
@@ -145,7 +145,7 @@ Experienced with the full data stack — from ingestion and transformation to vi
         </td>
         <td width="40%" align="center">
             <a href="https://github.com/thiagowehbe-bi/SQL_Showcase" target="_blank">
-                <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=thiagowehbe-bi&repo=SQL_Showcase&theme=tokyonight&hide_border=true" alt="SQL Showcase" />
+                <img width="100%" src="https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif" alt="SQL Showcase" />
             </a>
         </td>
     </tr>
@@ -155,7 +155,7 @@ Experienced with the full data stack — from ingestion and transformation to vi
     <tr>
         <td width="40%" align="center">
             <a href="https://github.com/thiagowehbe-bi/Python-Training-Essentials" target="_blank">
-                <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=thiagowehbe-bi&repo=Python-Training-Essentials&theme=tokyonight&hide_border=true" alt="Python Training" />
+                <img width="100%" src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" alt="Python Training" />
             </a>
         </td>
         <td width="60%">
