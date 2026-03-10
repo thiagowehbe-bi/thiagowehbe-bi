@@ -1,222 +1,230 @@
 <!-- Banner -->
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=Thiago%20Wehbe&fontSize=60&fontColor=e0e0e0&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Tableau%20%7C%20dbt%20%7C%20Airflow&descSize=18&descAlignY=55&descColor=94a3b8" width="100%" alt="Banner" />
-
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />, I'm Thiago Wehbe</h1>
-
-<h2 align="center">Data Analyst</h2>
-
-<h3 align="center">
-Data Analyst passionate about transforming raw data into meaningful, actionable insights.
-Skilled in building analytical pipelines, crafting dashboards, and uncovering trends that drive business decisions.
-Experienced with the full data stack — from ingestion and transformation to visualization and reporting.
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=Thiago%20Wehbe&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst&descSize=22&descAlignY=52&descColor=8b949e" width="100%" />
 
 <p align="center">
     <a href="https://github.com/thiagowehbe-bi">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&height=50&lines=%F0%9F%91%8B+I+am+Thiago+Wehbe;%F0%9F%93%8A+Data+Analyst;%F0%9F%9B%A0%EF%B8%8F+SQL+%7C+Python+%7C+Tableau+%7C+dbt+%7C+Airflow;%F0%9F%94%8D+Turning+Data+Into+Actionable+Insights;%F0%9F%92%AA+Analytical+%7C+Resourceful+%7C+Detail-Oriented;%F0%9F%93%88+Data+Analyst+%7C+Data+Engineer+%7C+BI+Developer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=100&lines=SQL+%7C+Python+%7C+Tableau+%7C+dbt+%7C+Airflow;Turning+Data+Into+Actionable+Insights;Building+Pipelines+%26+Dashboards" alt="Typing SVG" />
     </a>
 </p>
 
-<h4 align="center">Open to collaborate and open for hire</h4>
+<p align="center">
+    <a href="https://www.linkedin.com/in/thiagowehbe/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="mailto:thiagowehbe@gmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/thiagowehbe-bi">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+</p>
+
+<br>
+
+<!-- ───────────────────────── ABOUT ───────────────────────── -->
+
+<h2 align="center">About Me</h2>
+
+<p align="center">
+    <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200" align="right" alt="Data Animation" />
+</p>
+
+```yaml
+name: Thiago Wehbe
+role: Data Analyst
+location: Available Worldwide
+focus:
+  - Analytical Pipelines & ETL
+  - Dashboard Design & BI Reporting
+  - Data Modeling & Transformation
+  - Business Intelligence & Strategy
+currently: Open to new opportunities
+```
+
+<br clear="right"/>
 
 <!-- ───────────────────────── EXPERTISE ───────────────────────── -->
 
-<h1 align="center">Expertise</h1>
+<h2 align="center">Core Expertise</h2>
 
 <table align="center">
     <tr>
-        <td width="16%" align="center">
-            <img src="https://skillicons.dev/icons?i=py" width="65" alt="Python" />
-            <br><br>
-            <h3>Python</h3>
+        <td align="center" width="140">
+            <img src="https://skillicons.dev/icons?i=py" width="55" /><br>
+            <b>Python</b>
         </td>
-        <td width="16%" align="center">
-            <img src="https://skillicons.dev/icons?i=postgresql" width="65" alt="SQL" />
-            <br><br>
-            <h3>SQL</h3>
+        <td align="center" width="140">
+            <img src="https://skillicons.dev/icons?i=postgresql" width="55" /><br>
+            <b>SQL</b>
         </td>
-        <td width="16%" align="center">
-            <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="65" alt="Tableau" />
-            <br><br>
-            <h3>Tableau</h3>
+        <td align="center" width="140">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="55" style="filter: invert(1);" /><br>
+            <b>Tableau</b>
         </td>
-        <td width="16%" align="center">
-            <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" width="65" alt="dbt" />
-            <br><br>
-            <h3>dbt</h3>
-        </td>
-        <td width="16%" align="center">
-            <img src="https://cdn.worldvectorlogo.com/logos/apache-airflow.svg" width="65" alt="Airflow" />
-            <br><br>
-            <h3>Airflow</h3>
-        </td>
-        <td width="16%" align="center">
-            <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="65" alt="Excel" />
-            <br><br>
-            <h3>Excel</h3>
+        <td align="center" width="140">
+            <img src="https://skillicons.dev/icons?i=gcp" width="55" /><br>
+            <b>BigQuery</b>
         </td>
     </tr>
 </table>
 
-<h1></h1>
+<br>
+
+<h3 align="center">Full Stack</h3>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py,postgresql,docker,git,github,vscode,linux,bash&perline=8" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=gcp,aws,mongodb,grafana&perline=8" />
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+    <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
+
+<br>
 
 <!-- ───────────────────────── WORK DEMOS ───────────────────────── -->
 
-<h1 align="center">Work Demos</h1>
+<h2 align="center">Featured Projects</h2>
 
-<table bordercolor="#3B82F6">
+<table>
     <tr>
         <td width="60%">
-            <h2>TechSphere E-Commerce Sales Analysis</h2>
-            <h4>Founded in 2018, TechSphere is an e-commerce company that sells popular electronic products and has since expanded to a global customer base. Like most e-commerce companies, TechSphere sells products through its online site as well as its mobile app. It uses a variety of marketing channels to reach customers, including email campaigns, SEO, and affiliate links. Over the past few years, its most popular products have been from Apple, Samsung, and ThinkPad.
-            <br><br>
-            The company has a core dataset consisting of orders, order statuses, customers, products, and geographic information. We extracted numerous insights that had not yet been discovered by the company.</h4>
+            <h3>TechSphere E-Commerce Sales Analysis</h3>
+            <p>End-to-end analysis for an e-commerce company selling electronic products globally. Explored order trends, product performance, customer behavior, and marketing channel effectiveness using a dataset of orders, statuses, customers, and geographic data.</p>
             <p>
-                <a href="https://github.com/thiagowehbe-bi/TechSphere_Ecommerce" target="_blank">
-                    <img width="80px" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-                </a>
-                <a href="https://github.com/thiagowehbe-bi/TechSphere_Ecommerce" target="_blank">
-                    <img width="80px" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-                </a>
-                <a href="https://github.com/thiagowehbe-bi/TechSphere_Ecommerce" target="_blank">
-                    <img width="80px" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-                </a>
-                <a href="https://github.com/thiagowehbe-bi/TechSphere_Ecommerce" target="_blank">
-                    <img src="https://img.shields.io/badge/Go_To_Project-%E2%86%92-3B82F6?style=for-the-badge" alt="Go To Project" />
-                </a>
+                <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+                <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+                <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
             </p>
+            <a href="https://github.com/thiagowehbe-bi/TechSphere_Ecommerce">
+                <img src="https://img.shields.io/badge/View_Project_%E2%86%92-58a6ff?style=for-the-badge" />
+            </a>
         </td>
-        <td width="40%" align="center">
-            <a href="https://github.com/thiagowehbe-bi/TechSphere_Ecommerce" target="_blank">
-                <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagowehbe-bi&repo=TechSphere_Ecommerce&theme=tokyonight&hide_border=true" alt="TechSphere" />
+        <td width="40%">
+            <a href="https://github.com/thiagowehbe-bi/TechSphere_Ecommerce">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagowehbe-bi&repo=TechSphere_Ecommerce&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" />
             </a>
         </td>
     </tr>
 </table>
 
-<table bordercolor="#3B82F6">
+<table>
     <tr>
-        <td width="40%" align="center">
-            <a href="https://github.com/thiagowehbe-bi/Sales_Analysis_BigQuery" target="_blank">
-                <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagowehbe-bi&repo=Sales_Analysis_BigQuery&theme=tokyonight&hide_border=true" alt="Sales Analysis BigQuery" />
+        <td width="40%">
+            <a href="https://github.com/thiagowehbe-bi/Sales_Analysis_BigQuery">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagowehbe-bi&repo=Sales_Analysis_BigQuery&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" />
             </a>
         </td>
         <td width="60%">
-            <h2>Sales Analysis - BigQuery</h2>
-            <h4>Sales data analysis leveraging Google BigQuery for large-scale data processing and insights generation. Explored revenue trends, regional performance, and customer segmentation to provide data-driven recommendations for business growth.
-            <br><br>
-            Utilized advanced SQL techniques including window functions, CTEs, and aggregations to uncover actionable insights from large datasets.</h4>
+            <h3>Sales Analysis - BigQuery</h3>
+            <p>Large-scale sales analysis using Google BigQuery. Explored revenue trends, regional performance, and customer segmentation with advanced SQL — window functions, CTEs, and complex aggregations to deliver data-driven business recommendations.</p>
             <p>
-                <a href="https://github.com/thiagowehbe-bi/Sales_Analysis_BigQuery" target="_blank">
-                    <img width="80px" src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-                </a>
-                <a href="https://github.com/thiagowehbe-bi/Sales_Analysis_BigQuery" target="_blank">
-                    <img width="80px" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-                </a>
-                <a href="https://github.com/thiagowehbe-bi/Sales_Analysis_BigQuery" target="_blank">
-                    <img src="https://img.shields.io/badge/Go_To_Project-%E2%86%92-3B82F6?style=for-the-badge" alt="Go To Project" />
-                </a>
+                <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" />
+                <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
             </p>
-        </td>
-    </tr>
-</table>
-
-<table bordercolor="#3B82F6">
-    <tr>
-        <td width="60%">
-            <h2>SQL Showcase</h2>
-            <h4>A comprehensive collection of SQL queries and techniques demonstrating data analysis capabilities across different domains. Includes complex joins, subqueries, window functions, CTEs, and stored procedures.
-            <br><br>
-            Covers real-world scenarios from sales analytics, customer segmentation, inventory management, and financial reporting — showcasing proficiency in turning raw data into business intelligence.</h4>
-            <p>
-                <a href="https://github.com/thiagowehbe-bi/SQL_Showcase" target="_blank">
-                    <img width="80px" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-                </a>
-                <a href="https://github.com/thiagowehbe-bi/SQL_Showcase" target="_blank">
-                    <img src="https://img.shields.io/badge/Go_To_Project-%E2%86%92-3B82F6?style=for-the-badge" alt="Go To Project" />
-                </a>
-            </p>
-        </td>
-        <td width="40%" align="center">
-            <a href="https://github.com/thiagowehbe-bi/SQL_Showcase" target="_blank">
-                <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagowehbe-bi&repo=SQL_Showcase&theme=tokyonight&hide_border=true" alt="SQL Showcase" />
+            <a href="https://github.com/thiagowehbe-bi/Sales_Analysis_BigQuery">
+                <img src="https://img.shields.io/badge/View_Project_%E2%86%92-58a6ff?style=for-the-badge" />
             </a>
         </td>
     </tr>
 </table>
 
-<table bordercolor="#3B82F6">
+<table>
     <tr>
-        <td width="40%" align="center">
-            <a href="https://github.com/thiagowehbe-bi/Python-Training-Essentials" target="_blank">
-                <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagowehbe-bi&repo=Python-Training-Essentials&theme=tokyonight&hide_border=true" alt="Python Training" />
+        <td width="60%">
+            <h3>SQL Showcase</h3>
+            <p>Comprehensive collection of SQL techniques across real-world domains — sales analytics, customer segmentation, inventory management, and financial reporting. Demonstrates complex joins, subqueries, window functions, CTEs, and stored procedures.</p>
+            <p>
+                <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+            </p>
+            <a href="https://github.com/thiagowehbe-bi/SQL_Showcase">
+                <img src="https://img.shields.io/badge/View_Project_%E2%86%92-58a6ff?style=for-the-badge" />
             </a>
         </td>
-        <td width="60%">
-            <h2>Python Training Essentials</h2>
-            <h4>Python fundamentals and data analysis training covering pandas, numpy, and core data manipulation techniques. From data cleaning and transformation to statistical analysis and visualization.
-            <br><br>
-            A hands-on collection of notebooks and scripts designed to build a strong foundation in Python for data analysis and engineering workflows.</h4>
-            <p>
-                <a href="https://github.com/thiagowehbe-bi/Python-Training-Essentials" target="_blank">
-                    <img width="80px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-                </a>
-                <a href="https://github.com/thiagowehbe-bi/Python-Training-Essentials" target="_blank">
-                    <img width="80px" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-                </a>
-                <a href="https://github.com/thiagowehbe-bi/Python-Training-Essentials" target="_blank">
-                    <img src="https://img.shields.io/badge/Go_To_Project-%E2%86%92-3B82F6?style=for-the-badge" alt="Go To Project" />
-                </a>
-            </p>
+        <td width="40%">
+            <a href="https://github.com/thiagowehbe-bi/SQL_Showcase">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagowehbe-bi&repo=SQL_Showcase&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" />
+            </a>
         </td>
     </tr>
 </table>
+
+<table>
+    <tr>
+        <td width="40%">
+            <a href="https://github.com/thiagowehbe-bi/Python-Training-Essentials">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagowehbe-bi&repo=Python-Training-Essentials&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" />
+            </a>
+        </td>
+        <td width="60%">
+            <h3>Python Training Essentials</h3>
+            <p>Hands-on Python training covering pandas, numpy, and core data manipulation. From data cleaning and transformation to statistical analysis and visualization — building a strong foundation for data analysis and engineering workflows.</p>
+            <p>
+                <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+                <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+            </p>
+            <a href="https://github.com/thiagowehbe-bi/Python-Training-Essentials">
+                <img src="https://img.shields.io/badge/View_Project_%E2%86%92-58a6ff?style=for-the-badge" />
+            </a>
+        </td>
+    </tr>
+</table>
+
+<br>
 
 <!-- ───────────────────────── GITHUB STATS ───────────────────────── -->
 
-<h1 align="center">GitHub Stats</h1>
+<h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=thiagowehbe-bi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1a2e" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagowehbe-bi&theme=tokyonight&hide_border=true&background=1a1a2e" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=thiagowehbe-bi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&count_private=true" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiagowehbe-bi&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowehbe-bi&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1a2e" alt="Top Languages" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowehbe-bi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&count_private=true" width="42%" />
 </p>
 
-<!-- ───────────────────────── ADDITIONAL SKILLS ───────────────────────── -->
-
-<h1 align="center">Additional Skills</h1>
-
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,postgresql,docker,git,github,vscode,linux,bash" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=gcp,aws,mongodb,redis,grafana,figma,notion,markdown" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiagowehbe-bi&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%" />
 </p>
 
-<!-- ───────────────────────── LET'S CONNECT ───────────────────────── -->
+<br>
 
-<h1 align="center">Let's Connect</h1>
+<!-- ───────────────────────── CONNECT ───────────────────────── -->
+
+<h2 align="center">Let's Connect</h2>
 
 <p align="center">
-    <a href="https://github.com/thiagowehbe-bi" target="_blank">
-        <img width="90px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://www.linkedin.com/in/thiagowehbe/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="35" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/thiagowehbe/" target="_blank">
-        <img width="90px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="mailto:thiagowehbe@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="35" />
     </a>
     &nbsp;&nbsp;
-    <a href="mailto:thiagowehbe@gmail.com" target="_blank">
-        <img width="90px" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://github.com/thiagowehbe-bi">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="35" />
     </a>
 </p>
 
+<br>
+
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=thiagowehbe-bi&style=for-the-badge&color=3B82F6" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=thiagowehbe-bi&style=flat-square&color=58a6ff&label=Profile+Views" />
 </p>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" width="100%" />
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=100&section=footer" width="100%" />
