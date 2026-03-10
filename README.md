@@ -127,56 +127,6 @@ Experienced with the full data stack — from ingestion and transformation to vi
     </tr>
 </table>
 
-<table bordercolor="#3B82F6">
-    <tr>
-        <td width="60%">
-            <h2>SQL Showcase</h2>
-            <h4>A comprehensive collection of SQL queries and techniques demonstrating data analysis capabilities across different domains. Includes complex joins, subqueries, window functions, CTEs, and stored procedures.
-            <br><br>
-            Covers real-world scenarios from sales analytics, customer segmentation, inventory management, and financial reporting — showcasing proficiency in turning raw data into business intelligence.</h4>
-            <p>
-                <a href="https://github.com/thiagowehbe-bi/SQL_Showcase" target="_blank">
-                    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-                </a>
-                <a href="https://github.com/thiagowehbe-bi/SQL_Showcase" target="_blank">
-                    <img src="https://img.shields.io/badge/Go_To_Project-%E2%86%92-3B82F6?style=for-the-badge" alt="Go To Project" />
-                </a>
-            </p>
-        </td>
-        <td width="40%" align="center">
-            <a href="https://github.com/thiagowehbe-bi/SQL_Showcase" target="_blank">
-                <img width="100%" src="https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif" alt="SQL Showcase" />
-            </a>
-        </td>
-    </tr>
-</table>
-
-<table bordercolor="#3B82F6">
-    <tr>
-        <td width="40%" align="center">
-            <a href="https://github.com/thiagowehbe-bi/Python-Training-Essentials" target="_blank">
-                <img width="100%" src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" alt="Python Training" />
-            </a>
-        </td>
-        <td width="60%">
-            <h2>Python Training Essentials</h2>
-            <h4>Python fundamentals and data analysis training covering pandas, numpy, and core data manipulation techniques. From data cleaning and transformation to statistical analysis and visualization.
-            <br><br>
-            A hands-on collection of notebooks and scripts designed to build a strong foundation in Python for data analysis and engineering workflows.</h4>
-            <p>
-                <a href="https://github.com/thiagowehbe-bi/Python-Training-Essentials" target="_blank">
-                    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-                </a>
-                <a href="https://github.com/thiagowehbe-bi/Python-Training-Essentials" target="_blank">
-                    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-                </a>
-                <a href="https://github.com/thiagowehbe-bi/Python-Training-Essentials" target="_blank">
-                    <img src="https://img.shields.io/badge/Go_To_Project-%E2%86%92-3B82F6?style=for-the-badge" alt="Go To Project" />
-                </a>
-            </p>
-        </td>
-    </tr>
-</table>
 
 <!-- ───────────────────────── GITHUB STATS ───────────────────────── -->
 
