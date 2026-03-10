@@ -51,21 +51,29 @@ currently: Open to new opportunities
 
 <table align="center">
     <tr>
-        <td align="center" width="140">
+        <td align="center" width="120">
             <img src="https://skillicons.dev/icons?i=py" width="55" /><br>
             <b>Python</b>
         </td>
-        <td align="center" width="140">
+        <td align="center" width="120">
             <img src="https://skillicons.dev/icons?i=postgresql" width="55" /><br>
             <b>SQL</b>
         </td>
-        <td align="center" width="140">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="55" style="filter: invert(1);" /><br>
+        <td align="center" width="120">
+            <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="55" /><br>
             <b>Tableau</b>
         </td>
-        <td align="center" width="140">
-            <img src="https://skillicons.dev/icons?i=gcp" width="55" /><br>
-            <b>BigQuery</b>
+        <td align="center" width="120">
+            <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="55" /><br>
+            <b>dbt</b>
+        </td>
+        <td align="center" width="120">
+            <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" height="55" /><br>
+            <b>Airflow</b>
+        </td>
+        <td align="center" width="120">
+            <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="55" /><br>
+            <b>Excel</b>
         </td>
     </tr>
 </table>
