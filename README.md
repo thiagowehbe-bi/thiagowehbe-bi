@@ -78,22 +78,22 @@ Experienced with the full data stack — from ingestion and transformation to vi
             <br><br>
             The company has a core dataset consisting of orders, order statuses, customers, products, and geographic information. We extracted numerous insights that had not yet been discovered by the company.</h4>
             <p>
-                <a href="https://github.com/thiagowehbe-bi/TechSphere_Ecommerce" target="_blank">
+                <a href="https://github.com/thiagowehbe-bi/Dunder_Mifflin_Ecommerce" target="_blank">
                     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
                 </a>
-                <a href="https://github.com/thiagowehbe-bi/TechSphere_Ecommerce" target="_blank">
+                <a href="https://github.com/thiagowehbe-bi/Dunder_Mifflin_Ecommerce" target="_blank">
                     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
                 </a>
-                <a href="https://github.com/thiagowehbe-bi/TechSphere_Ecommerce" target="_blank">
+                <a href="https://github.com/thiagowehbe-bi/Dunder_Mifflin_Ecommerce" target="_blank">
                     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
                 </a>
-                <a href="https://github.com/thiagowehbe-bi/TechSphere_Ecommerce" target="_blank">
+                <a href="https://github.com/thiagowehbe-bi/Dunder_Mifflin_Ecommerce" target="_blank">
                     <img src="https://img.shields.io/badge/Go_To_Project-%E2%86%92-3B82F6?style=for-the-badge" alt="Go To Project" />
                 </a>
             </p>
         </td>
         <td width="40%" align="center">
-            <a href="https://github.com/thiagowehbe-bi/TechSphere_Ecommerce" target="_blank">
+            <a href="https://github.com/thiagowehbe-bi/Dunder_Mifflin_Ecommerce" target="_blank">
                 <img width="100%" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="TechSphere E-Commerce" />
             </a>
         </td>
