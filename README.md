@@ -103,23 +103,23 @@ Experienced with the full data stack — from ingestion and transformation to vi
 <table bordercolor="#3B82F6">
     <tr>
         <td width="40%" align="center">
-            <a href="https://github.com/thiagowehbe-bi/Sales_Analysis_BigQuery" target="_blank">
+            <a href="https://github.com/thiagowehbe-bi/BigQuery_Sales_Insights" target="_blank">
                 <img width="100%" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Sales Analysis BigQuery" />
             </a>
         </td>
         <td width="60%">
-            <h2>Sales Analysis - BigQuery</h2>
+            <h2>BigQuery Sales Insights</h2>
             <h4>Sales data analysis leveraging Google BigQuery for large-scale data processing and insights generation. Explored revenue trends, regional performance, and customer segmentation to provide data-driven recommendations for business growth.
             <br><br>
             Utilized advanced SQL techniques including window functions, CTEs, and aggregations to uncover actionable insights from large datasets.</h4>
             <p>
-                <a href="https://github.com/thiagowehbe-bi/Sales_Analysis_BigQuery" target="_blank">
+                <a href="https://github.com/thiagowehbe-bi/BigQuery_Sales_Insights" target="_blank">
                     <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
                 </a>
-                <a href="https://github.com/thiagowehbe-bi/Sales_Analysis_BigQuery" target="_blank">
+                <a href="https://github.com/thiagowehbe-bi/BigQuery_Sales_Insights" target="_blank">
                     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
                 </a>
-                <a href="https://github.com/thiagowehbe-bi/Sales_Analysis_BigQuery" target="_blank">
+                <a href="https://github.com/thiagowehbe-bi/BigQuery_Sales_Insights" target="_blank">
                     <img src="https://img.shields.io/badge/Go_To_Project-%E2%86%92-3B82F6?style=for-the-badge" alt="Go To Project" />
                 </a>
             </p>
